@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.3",
-    "three": "^0.106.2"
+    "three": "^0.137.0"
   }
 }
